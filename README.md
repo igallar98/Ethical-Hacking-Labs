@@ -2,6 +2,9 @@
 </p>
 
 ## ⚔️ Ethical Hacking
+
+[RESUME](https://github.com/igallar98/Ethical-Hacking-Labs/blob/master/1-Footprinting-and-Reconnaissance/0-What-is-Footprinting.md)
+
 1. **Footprinting and Reconnaissance**
     * [Introduction](https://github.com/igallar98/Ethical-Hacking-Labs/blob/master/1-Footprinting-and-Reconnaissance/0-What-is-Footprinting.md)
     * [Windows command line](https://github.com/igallar98/Ethical-Hacking-Labs/blob/master/1-Footprinting-and-Reconnaissance/1-Windows-CommandLine.md)
